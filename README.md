@@ -1,5 +1,5 @@
 The game was developing for 4 days using SDL 2.0 and C lang.\
-Our dream team:\
+Our dream team: \
 https://github.com/zeromotivat1on \
 https://github.com/n0na7773 \
 https://github.com/ChausAnton and me.\
